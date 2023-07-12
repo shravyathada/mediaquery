@@ -1,2 +1,1 @@
-# mediaquery
-Responsive Media Query
+
